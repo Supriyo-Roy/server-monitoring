@@ -55,4 +55,8 @@ Install Grafana on Debian or Ubuntu
 
 [Link text](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
 
+After installing Grafana, open localhost:3000 and add prometheus as datasource, then import the jason above :)
+
+## Now you can monitor all your CPU metrics 
+
 
