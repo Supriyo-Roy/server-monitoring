@@ -49,7 +49,4 @@ Once Prometheus is installed you can start it up, using the --config.file flag t
 ./prometheus --config.file=./prometheus.yml
 ```
 
-Refere --> 
-```sh
-https://prometheus.io/docs/guides/node-exporter/
-```
+Refere --> [Link text] https://prometheus.io/docs/guides/node-exporter/
