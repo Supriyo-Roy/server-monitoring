@@ -49,4 +49,10 @@ Once Prometheus is installed you can start it up, using the --config.file flag t
 ./prometheus --config.file=./prometheus.yml
 ```
 
-Refere --> [Link text](https://prometheus.io/docs/guides/node-exporter/)
+Reference --> [Link text](https://prometheus.io/docs/guides/node-exporter/)
+
+Install Grafana on Debian or Ubuntu
+
+[Link text](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
+
+
